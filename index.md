@@ -11,7 +11,7 @@ Hi, my name is Blake Newhouse, and I am a second year Computer Science student a
 I am a huge fan of both the San Diego Padres and Chelsea, and if you support any other teams your opinion is invalid(just kidding). I am originally from Encinitas, California, and have grew up in San Diego my whole life. I also enjoy playing games like Pokemon, Hollow Knight, Celeste, and more.
 
 <img src="https://github.com/user-attachments/assets/35a9144a-6058-4c0c-b811-8214855cd437" width="128">
-    
+
 <img src="https://github.com/user-attachments/assets/bde4fd6a-87d5-4a2c-bad5-2a6730f0ca68" width="128">
 
 ## Life as a Programmer
