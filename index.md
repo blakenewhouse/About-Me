@@ -10,7 +10,7 @@ Email: blakenewhouse@gmail.com
 Hi, my name is Blake Newhouse, and I am a second year Computer Science student at UCSD. When I am not studying, I love to snowboard, play basketball and volleyball, go to the beach, and watch sports.
 I am a huge fan of both the San Diego Padres and Chelsea, and if you support any other teams your opinion is invalid(just kidding). I am originally from Encinitas, California, and have grew up in San Diego my whole life. I also enjoy playing games like Pokemon, Hollow Knight, Celeste, and more.
 
-<img src="[https://github.com/favicon.ico](https://github.com/user-attachments/assets/35a9144a-6058-4c0c-b811-8214855cd437)" width="28">
+<img src="https://github.com/user-attachments/assets/35a9144a-6058-4c0c-b811-8214855cd437" width="28">
 
 ![Chelsea](https://github.com/user-attachments/assets/35a9144a-6058-4c0c-b811-8214855cd437)
 
