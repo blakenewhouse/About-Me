@@ -1,7 +1,10 @@
 
 # Blake Newhouse
+
 Student at the **University of California San Diego**
+
 Undergraduate under the Department of Computer Science
+
 Email: blakenewhouse@gmail.com 
 
 > [About Me](#about-me) | [Programming](#life-as-a-programmer)
