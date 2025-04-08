@@ -30,3 +30,5 @@ The classes that I am still planning on taking and want to take are as follows:
 - [x] CSE 151A
 - [ ] CSE 150B
 - [ ] CSE 131
+
+[README Details for Lab 1](README.md)
